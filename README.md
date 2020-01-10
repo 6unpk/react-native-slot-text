@@ -15,7 +15,7 @@
  ```
  -->
 
-** Usage **
+## Usage 
  
 ```js
  import SlotText from react-native-slot-text;
@@ -38,7 +38,7 @@
 | name | property | default |
 | ---- | --------- | ------- | 
 | title | `String` | None |
-| delim | `Integer` | None |
+| delim | `String` | None |
 | size | `Integer` | 12 |
 | startDuration | `Integer` | 2000 |
 | difDuration | `Integer` | 500 |
